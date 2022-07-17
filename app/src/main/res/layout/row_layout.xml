@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="15dp"
+    >
+
+
+    <TextView
+        android:id="@+id/open_rowLayout"
+        android:layout_width="339dp"
+        android:layout_height="50dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:text="hello"
+        android:textAlignment="gravity"
+
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/high_rowlayout"
+
+        android:layout_width="343dp"
+        android:layout_height="49dp"
+
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/low_rowlayout"
+        android:layout_width="343dp"
+        android:layout_height="46dp"
+
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/closed_rowlayout"
+        android:layout_width="343dp"
+        android:layout_height="49dp"
+
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/adjusted_rowlayout"
+        android:layout_width="341dp"
+        android:layout_height="49dp"
+
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/dividend_rowlayout"
+        android:layout_width="341dp"
+        android:layout_height="46dp"
+
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/volume_rowlayout"
+        android:layout_width="343dp"
+        android:layout_height="49dp"
+
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/split_rowlayout"
+        android:layout_width="342dp"
+        android:layout_height="49dp"
+
+        android:paddingLeft="14dp"
+        android:paddingTop="15dp"
+        android:background="@null"
+        android:textColor="#ffffff"
+        android:textStyle="italic|bold">
+
+    </TextView>
+
+</LinearLayout>
